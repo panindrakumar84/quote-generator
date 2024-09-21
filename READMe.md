@@ -1,7 +1,7 @@
 Quote Generator
 ====
 
-This is a **quote generator** project built with pure javascript without any javascript libraries. This is a very good project to understand the core fundamentals of frontend development and api calls.
+This is a **quote generator** project built with pure javascript without any javascript libraries and a very good project to understand the core fundamentals of frontend development and api calls.
 
 ## Tech Stack  
 * HTML  
